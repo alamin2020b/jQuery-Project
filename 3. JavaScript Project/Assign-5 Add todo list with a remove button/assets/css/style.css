@@ -1,0 +1,20 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: candara;
+
+}
+body {
+	margin: 150px;
+
+}
+p {
+	margin: 30px 0px;
+	cursor: pointer;
+}
+input {
+	padding: 5px;
+}
+button {
+	perspective: 5px;
+}

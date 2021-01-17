@@ -1,0 +1,30 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: candara;
+
+}
+
+body {
+
+	margin: 100px;
+}
+a {
+	text-decoration: none;
+	display: block;
+	width: 300px;
+	padding: 10px;
+	background-color:#4B0082;
+	color: #F0FFFF ;
+	margin: auto;
+}
+
+p {
+	width: 300px;
+	padding: 10px;
+	background-color: #4682B4;
+	color:#FFFAF0 ;
+	margin: auto;
+	display: none;
+}
+

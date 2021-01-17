@@ -1,0 +1,15 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: candara;
+}
+
+body {
+	margin: 200px;
+}
+
+button {
+	width: 100px;
+	border-radius: 50px;
+
+}
